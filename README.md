@@ -6,7 +6,7 @@ This is the repository for my personal website, hosted using GitHub Pages. You c
 
 Hi, I'm Muhammad Umar Khan!
 
-I'm a Software Engineer with a love for coding. This site showcases my projects, blog posts, and more. Feel free to explore and reach out if you have any questions or collaboration ideas.
+I'm a Software Engineer with a love for coding. This site showcases my profile, projects and my social links. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
 ## Contact
 
