@@ -13,7 +13,7 @@ I'm a Software Engineer with a love for coding. This site showcases my profile, 
 I'm always open to new opportunities and collaborations. You can reach me via:
 
 - **Email:** [umar.info1993@gmail.com](mailto:umar.info1993@gmail.com)
-- **LinkedIn:** [Muhammad Umar Khan](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn:** [Muhammad Umar Khan](https://www.linkedin.com/in/imkhanzada93)
 - **Medium:** [Muhammad Umar Khan](https://medium.com/@umar.info1993)
 - **WhatsApp:** [+49 178 2791232](https://wa.me/+491782791232)
 
